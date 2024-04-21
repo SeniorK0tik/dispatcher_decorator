@@ -1,3 +1,6 @@
+# Installation
+`poetry add git+https://github.com/SeniorK0tik/dispatcher_decorator.git`
+
 # Examples
 
 ```python
